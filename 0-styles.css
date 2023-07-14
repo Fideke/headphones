@@ -69,7 +69,7 @@ button {
     border-radius: 5px;
 }
 
-.main-button:hover{
+.button:hover{
     opacity: 0.9;
 }
 
